@@ -1,0 +1,2 @@
+# Optional defaults for Frost
+CONFIG_ZMK_USB_LOGGING=y

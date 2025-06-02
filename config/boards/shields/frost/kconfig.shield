@@ -1,0 +1,4 @@
+config SHIELD_FROST
+    bool "Frost"
+    select ZMK_KEYBOARD
+    default y
